@@ -1,0 +1,3 @@
+imagens-livros/scripts/conversao-jpg-png.sh: line 4: cd: /Ussfgsdgsdfgdsfgfdsgsgdfsvrosfasdf/: No such file or directory
+ls: *.jpg: No such file or directory
+Warning: .jpg not a valid file - skipping
