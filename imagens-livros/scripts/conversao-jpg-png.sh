@@ -1,7 +1,7 @@
 #!/bin/bash
 
 converteImagem() {
-cd /Users/paulojacinto/Documents/cursoshell/imagens-livrosfdfsa
+cd /Users/paulojacinto/Documents/cursoshell/imagens-livros
     if [ ! -d png ]
     then
         mkdir png
